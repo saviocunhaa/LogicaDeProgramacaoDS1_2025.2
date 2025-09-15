@@ -1,5 +1,13 @@
 ﻿# 📚 Repositório Curso Desenvolvimento de Sistemas – 1º Ano (2025.2)
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+
+---
+
 ## 💡 Disciplina: Lógica de Programação  
 
 Disciplina ministrada pelo **Prof. Sávio Cunha** na  
