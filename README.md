@@ -1,85 +1,51 @@
-﻿
-<h1 align="center"> REPOSITORIO CURSO DESENVOMVIMENTO DE SISTEMAS 1º ANO 2023.2</h1>
-<h2 align="center"> DISCIPLINA - LOGICA DE PROGRAMAÇÃO </h2>
-<p align="center">
-Disciplina ministrada pelo Prof. Sávio Cunha na EEEP Professor Sebastião Vasconcelos Sobrinho da cidade de Tianguá - CE. 
+﻿# 📚 Repositório Curso Desenvolvimento de Sistemas – 1º Ano (2025.2)
 
-</p>
+## 💡 Disciplina: Lógica de Programação  
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Repositorios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+Disciplina ministrada pelo **Prof. Sávio Cunha** na  
+**EEEP Professor Sebastião Vasconcelos Sobrinho** – Tianguá/CE.  
 
-<br>
+---
+
+### 🔗 Navegação
+- [🚀 Tecnologias](#-tecnologias)  
+- [💻 Projeto](#-projeto)  
+- [📂 Repositórios dos Alunos](#-repositórios-dos-alunos)  
+- [📜 Licença](#memo-licença)  
+
+---
 
 ## 🚀 Tecnologias
 
-Os Projetos foram desenvolvido com as seguintes tecnologias:
+Os projetos foram desenvolvidos utilizando:
 
-- PYTHON
-- Git e Github
+- **Python** 🐍  
+- **Git & GitHub** 🌐  
+
+---
 
 ## 💻 Projeto
 
-TODOS OS PROJETOS ESTIMULAM A LÓGICA DE PROGRAMAÇÃO
+Este repositório foi criado com o objetivo de **estimular a lógica de programação** e incentivar o **uso do GitHub** de forma prática.  
 
-<br>
-Projeto desenvolvido para incentivar o uso do github de forma mais prática, todas as atividades desse repositorio será corrigida apenas nos repositorio dos alunos...
+🔹 Todas as atividades serão entregues e corrigidas **diretamente nos repositórios dos alunos**, incentivando a autonomia e a organização no versionamento de código.  
 
-## 🔖 REPOSITORIOS ALUNOS
+---
 
-https://github.com/AlyssonAraujjoo<br>
-https://github.com/ana27clara06<br>
-https://github.com/An4Laa<br>
-https://github.com/Luizyy<br>
-https://github.com/anaallya<br>
-https://github.com/EduardaSouzaa<br>
-https://github.com/Leofelixll<br>
-https://github.com/Dannmlo<br>
-https://github.com/Pinguice456<br>
-https://github.com/atilaaguiar14<br>
-https://github.com/BrenoSalvador<br>
-https://github.com/tchetche999<br>
-https://github.com/dariobrito01<br>
-https://github.com/Elielzx7<br>
-https://github.com/erikedu10<br>
-https://github.com/Vivianalbuquerque<br>
-https://github.com/Fernnandocabral<br>
-https://github.com/fdsantoz<br>
-https://github.com/Negantoin<br>
-https://github.com/Murilooaguiar<br>
-https://github.com/LimaGabrielzz<br>
-https://github.com/Gabriellevims<br>
-https://github.com/HerikVinicius<br>
-https://github.com/hiarleyCsilva<br>
-https://github.com/Idalinoalbuquerque<br>
-https://github.com/isaacsaless<br>
-https://github.com/italonogxz<br>
-https://github.com/jaianea<br>
-https://github.com/janeilson-araujo<br>
-https://github.com/Joadejdsj<br>
-https://github.com/joao7victor<br>
-https://github.com/JoaoVitorMuniz16<br>
-https://github.com/juju-png<br>
-https://github.com/Marcela-007<br>
-https://github.com/viniciussilva512<br>
-https://github.com/marialluana<br>
-https://github.com/MNazare<br>
-https://github.com/starwalker8p<br>
-https://github.com/ldrgabryele<br>
-https://github.com/icarop16<br>
-https://github.com/rayysalu07<br>
-https://github.com/ruanbrito3<br>
-https://github.com/sofymiranda<br>
-https://github.com/stephanymoitaa<br>
-https://github.com/yhasminsousa<br>
-https://github.com/JuniorShinoda<br>
+## 📂 Repositórios dos Alunos
 
+Aqui estarão listados os repositórios individuais de cada aluno:  
+
+- [Aluno 1](#)  
+- [Aluno 2](#)  
+- [Aluno 3](#)  
+- ...  
+
+> Cada repositório conterá as atividades e projetos desenvolvidos ao longo da disciplina.  
+
+---
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
-
+Este projeto está sob a licença **MIT**.  
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).  
