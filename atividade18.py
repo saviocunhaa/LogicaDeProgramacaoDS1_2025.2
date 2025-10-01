@@ -1,0 +1,1 @@
+# Crie um dicionário chamado notas com as chaves: Matemática, Português, História. Atribua valores (notas) e exiba a média.

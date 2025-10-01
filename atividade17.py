@@ -1,0 +1,1 @@
+# Crie um dicionário com as informações de um aluno: nome, idade, curso. Exiba os valores.

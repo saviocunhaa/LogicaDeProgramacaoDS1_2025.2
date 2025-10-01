@@ -1,0 +1,1 @@
+# Faça um dicionário com 3 frutas e seus respectivos preços. Depois, peça ao usuário para digitar o nome de uma fruta e exiba o preço correspondente.
