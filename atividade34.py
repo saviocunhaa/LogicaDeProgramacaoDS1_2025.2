@@ -1,0 +1,1 @@
+# Peça ao usuário um ano e verifique se ele é bissexto. (Um ano é bissexto se for divisível por 4 e não for por 100, ou se for divisível por 400.)

@@ -1,0 +1,1 @@
+# Um sistema de monitoramento deve ler a temperatura de um servidor e classificar assim: até 60°C → “Normal”; entre 61°C e 80°C → “Atenção”; acima de 80°C → “Crítico — risco de superaquecimento!”.

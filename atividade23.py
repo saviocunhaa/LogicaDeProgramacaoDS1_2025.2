@@ -1,0 +1,1 @@
+# Solicite ao usuário que escolha um método de pagamento: "pix", "cartão" ou "dinheiro". Mostre uma mensagem diferente para cada opção, como “Pagamento instantâneo via Pix” ou “Pagamento processado no cartão.”

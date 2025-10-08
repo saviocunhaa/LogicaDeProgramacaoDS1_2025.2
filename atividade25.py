@@ -1,0 +1,1 @@
+# Crie um programa que pergunte a quantidade de um produto em estoque. Se for igual a 0, exiba “Produto esgotado.” Se for até 5, exiba “Estoque baixo.” Caso contrário, exiba “Estoque normal.”

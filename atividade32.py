@@ -1,0 +1,1 @@
+# O sistema deve ler a média e a frequência do aluno. Ele será aprovado se tiver média ≥ 7 e frequência ≥ 75%. Caso contrário, estará reprovado. Mostre a situação final.

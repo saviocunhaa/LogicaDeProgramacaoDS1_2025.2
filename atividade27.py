@@ -1,0 +1,1 @@
+# Em um sistema de vendas, o cliente deve receber 10% de desconto se for cadastrado como “VIP”. Caso contrário, se o valor da compra for maior que R$ 500, receba 5% de desconto. Em outros casos, não há desconto.

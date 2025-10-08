@@ -1,0 +1,1 @@
+# Peça o valor que o usuário deseja sacar. O sistema só deve permitir saques múltiplos de 10. Caso contrário, exiba “Valor inválido para saque.” Se o valor for válido, exiba “Saque autorizado.”

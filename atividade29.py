@@ -1,0 +1,1 @@
+# Simule um sistema que solicita uma senha e, em seguida, um código de verificação. O login só deve ser autorizado se ambos estiverem corretos. Caso contrário, exiba uma mensagem de erro.
